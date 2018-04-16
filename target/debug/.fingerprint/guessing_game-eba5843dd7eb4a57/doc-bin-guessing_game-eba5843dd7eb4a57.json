@@ -1,0 +1,1 @@
+{"rustc":17812823007091863460,"features":"[]","target":6035654596194783329,"profile":11510404252448601022,"path":11993485878574342755,"deps":[["rand v0.3.22",949831274637723375],["rand v0.3.22",905663332284719697]],"local":[{"Precalculated":"1523646562.274876219s (/home/cris/Projects/rust-book/guessing_game/src/main.rs)"}],"rustflags":[],"epoch":"Epoch2015"}
